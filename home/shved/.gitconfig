@@ -1,0 +1,7 @@
+[user]
+	email = yshvedov@wimarksystems.com
+	name = Yury Shvedov
+[push]
+	default = matching
+[core]
+	whitespace = trailing-space,space-before-tab

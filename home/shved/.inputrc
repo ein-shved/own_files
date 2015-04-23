@@ -1,0 +1,5 @@
+#do not bell on tab-completion
+set bell-style none
+
+"\e[A": history-search-backward
+"\e[B": history-search-forward
